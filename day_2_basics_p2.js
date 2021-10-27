@@ -25,3 +25,6 @@ points.dist = function() {
 }
 
 console.log(points.dist())
+
+// ### Lexical Structure
+
